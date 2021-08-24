@@ -7,4 +7,4 @@
 - #### Instagram: [@githubsrm](https://www.instagram.com/githubsrm/)
 
 ---
-###### Beep-boop, someone teach me how tosolve a captcha! :robot:
+###### Beep-boop, someone teach me how to solve a captcha! :robot:
