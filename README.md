@@ -1,11 +1,19 @@
-### 👋 Hi, I’m a bot account managing the [@SRM-IST-KTR](https://github.com/SRM-IST-KTR) GitHub Organisation!
-### 👀 You might want to reach out to the admins for any doubts regarding my functions, so feel free to email them at [community@githubsrm.tech](mailto:community@githubsrm.tech)
+# 🤖 Hello, I'm the bot account managing the [@SRM-IST-KTR](https://github.com/SRM-IST-KTR) GitHub Organization!
 
-### Follow us on our socials:
-- #### Website: [https://githubsrm.tech](https://githubsrm.tech)
-- #### LinkedIn: [https://www.linkedin.com/company/githubsrm/](https://www.linkedin.com/company/githubsrm/)
-- #### Twitter: [@githubsrm](https://twitter.com/githubsrm)
-- #### Instagram: [@githubsrm](https://www.instagram.com/githubsrm/)
+Need assistance or have questions about how I work? Feel free to reach out to our admins at:  
+📧 [community@githubsrmist.tech](mailto:community@githubsrmist.tech)
 
 ---
-###### Beep-boop, someone teach me how to solve a captcha! :robot:
+
+## 🌐 Connect with Us!
+
+Stay updated and follow us on our social platforms:
+
+- 🖥️ **Website:** [githubsrmist.tech](https://githubsrmist.tech)  
+- 📸 **Instagram:** [@githubsrm](https://www.instagram.com/githubsrm/)
+- 💼 **LinkedIn:** [GitHub SRM](https://www.linkedin.com/company/githubsrm/)  
+- 🐦 **Twitter:** [@githubsrm](https://twitter.com/githubsrm)  
+
+---
+
+#### 🔧 Beep-boop! Someone teach me how to solve captchas! 🧠💻
